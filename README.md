@@ -26,7 +26,7 @@ This project lets users add, delete, and save tasks with a user-friendly interfa
 
 ## 🚀 How to Run
 
-1. Make sure Python is installed. You can check with:
+1. Make sure Python is installed.
 
 2. Clone or download this repository.
 
